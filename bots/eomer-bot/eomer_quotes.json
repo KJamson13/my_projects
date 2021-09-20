@@ -1,0 +1,133 @@
+[
+    {
+        "triggers": [
+            "you should not doubt him"
+        ],
+        "replies": [
+            "I do not doubt his heart, only the reach of his arm."
+        ]
+    },
+    {
+        "triggers": [
+            "did you see two hobbits",
+            "where there two hobbits"
+        ],
+        "any": true,
+        "replies": [
+            "We left none alive. We piled the carcasses and burned them.",
+            "Look for your friends. But do not trust to hope. It has forsaken these lands."
+        ]
+    },
+    {
+        "triggers": [
+            "eomer",
+            "dead"
+        ],
+        "replies": [
+            "I am sorry.",
+            "Look for your friends. But do not trust to hope. It has forsaken these lands."
+        ]
+    },
+    {
+        "triggers": [
+            "give me your name, horsemaster",
+            "give me your name horsemaster",
+            "give me your name eomer-bot"
+        ],
+        "any": true,
+        "replies": [
+            "I would cut off your head, Dwarf, if it stood but a little higher from the ground."
+        ]
+    },
+    {
+        "triggers": [
+            "Theoden",
+            "your king"
+        ],
+        "replies": [
+            "Theoden no longer recognizes friend from foe. Not even his own kin."
+        ]
+    },
+    {
+        "triggers": [
+            "eomer",
+            "where"
+        ],
+        "replies": [
+            "TO THE KING!"
+        ]
+    },
+    {
+        "triggers": [
+            "eomer",
+            "when"
+        ],
+        "replies": [
+            "Now is the hour! Riders of Rohan - oaths you have taken. Now, fulfill them all - to Lord and land!"
+        ]
+        
+    },
+    {
+        "triggers": [
+            "fuck you eomer",
+            "fuck you, eomer"
+        ],
+        "any": true,
+        "replies": [
+            "You have no authority here!",
+            "I would cut off your head, Dwarf, if it stood but a little higher from the ground."
+        ]
+        
+    },
+    {
+        "triggers": [
+            "are you going to take that, eomer",
+            "are you going to take that eomer"
+        ],
+        "any": true,
+        "replies": [
+            "You should not encourage him."
+        ]
+    },
+    {
+        "triggers": [
+            "draw out sauron's armies"
+        ],
+        "replies": [
+            "We cannot achieve victory through strength of arms"
+        ]
+    },
+    {
+        "triggers": [
+            "the white wizard",
+            "eomer"
+        ],
+        "replies": [
+            "The White Wizard is cunning. He walks here and there, they say, as an old man hooded and cloaked. And everywhere his spies slip past our nets."
+        ]
+        
+    },
+    {
+        "triggers": [
+            "eomer"
+        ],
+        "replies": [
+            "We cannot achieve victory through strength of arms.",
+            "You should not encourage him.",
+            "I do not doubt his heart, only the reach of his arm.",
+            "None who venture there ever return.",
+            "What business does an Elf, Man, and a Dwarf have in the Riddermark? Speak quickly.",
+            "I would cut off your head, Dwarf, if it stood but a little higher from the ground.",
+            "Theoden no longer recognizes friend from foe. Not even his own kin.",
+            "The White Wizard is cunning. He walks here and there, they say, as an old man hooded and cloaked. And everywhere his spies slip past our nets.",
+            "Saruman has poisoned the mind of the king and claimed lordship over these lands.",
+            "We left none alive. We piled the carcasses and burned them",
+            "You have no authority here! Your orders mean nothing!",
+            "TO THE KING!",
+            "Now is the hour! Riders of Rohan - oaths you have taken. Now, fulfill them all - to Lord and land!",
+            "The Uruks are destroyed. We slaughtered them during the night."
+        ]
+    }
+]
+
+
