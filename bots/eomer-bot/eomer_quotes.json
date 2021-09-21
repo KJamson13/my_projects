@@ -32,11 +32,20 @@
         "triggers": [
             "give me your name, horsemaster",
             "give me your name horsemaster",
+			"give me your name, horse-master",
             "give me your name eomer-bot"
         ],
         "any": true,
         "replies": [
             "I would cut off your head, Dwarf, if it stood but a little higher from the ground."
+        ]
+    },
+    {
+        "triggers": [
+            "theoden king stands alone"
+        ],
+        "replies": [
+            "Not alone. Rohirrim!"
         ]
     },
     {
@@ -59,25 +68,32 @@
     },
     {
         "triggers": [
+            "Eomer!"
+        ],
+        "replies": [
+            "TO THE KING!"
+        ]
+    },
+    {
+        "triggers": [
             "eomer",
             "when"
         ],
         "replies": [
             "Now is the hour! Riders of Rohan - oaths you have taken. Now, fulfill them all - to Lord and land!"
-        ]
-        
+        ] 
     },
     {
         "triggers": [
             "fuck you eomer",
-            "fuck you, eomer"
+            "fuck you, eomer",
+            "eomer you horse shagger"
         ],
         "any": true,
         "replies": [
             "You have no authority here!",
             "I would cut off your head, Dwarf, if it stood but a little higher from the ground."
         ]
-        
     },
     {
         "triggers": [
@@ -91,8 +107,10 @@
     },
     {
         "triggers": [
-            "draw out sauron's armies"
+            "draw out sauron's armies",
+            "draw out saurons armies"
         ],
+        "any": true,
         "replies": [
             "We cannot achieve victory through strength of arms"
         ]
@@ -125,7 +143,8 @@
             "You have no authority here! Your orders mean nothing!",
             "TO THE KING!",
             "Now is the hour! Riders of Rohan - oaths you have taken. Now, fulfill them all - to Lord and land!",
-            "The Uruks are destroyed. We slaughtered them during the night."
+            "The Uruks are destroyed. We slaughtered them during the night.",
+            "How long has it been since Saruman bought you? What was the promised price, Grima? When all the Men are dead you would take your share of the treasure?"
         ]
     }
 ]
