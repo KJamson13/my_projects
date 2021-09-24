@@ -32,7 +32,7 @@
         "triggers": [
             "give me your name, horsemaster",
             "give me your name horsemaster",
-			"give me your name, horse-master",
+            "give me your name, horse-master",
             "give me your name eomer-bot"
         ],
         "any": true,
